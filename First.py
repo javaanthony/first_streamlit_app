@@ -1,1 +1,1 @@
-T
+print("hello");
